@@ -24,3 +24,4 @@ A collection of advent of code solutions.
 | [Day 16](https://adventofcode.com/2023/day/16) | [16-1.py](2023/16-1.py) | [16-2.py](2023/16-2.py) |
 | [Day 17](https://adventofcode.com/2023/day/17) | [17-1.py](2023/17-1.py) | [17-2.py](2023/17-2.py) |
 | [Day 18](https://adventofcode.com/2023/day/18) | [18-1.py](2023/18-1.py) | [18-2.py](2023/18-2.py) |
+| [Day 19](https://adventofcode.com/2023/day/19) | [19-1.py](2023/19-1.py) | [19-2.py](2023/19-2.py) |
