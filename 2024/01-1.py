@@ -9,9 +9,8 @@ for line in lines:
     left.append(int(x))
     right.append(int(y))
 
-distances = []
-
+res = 0
 for x, y in zip(sorted(left), sorted(right)):
-    distances.append(abs(x - y))
+    res += abs(x - y)
 
-print(sum(distances))
+print(res)
