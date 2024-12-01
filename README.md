@@ -4,6 +4,10 @@ A collection of advent of code solutions.
 
 <a href="https://adventofcode.com/">Click here</a> to go to the Advent of Code website.
 
+<details>
+
+<summary>2023 Solutions</summary>
+
 |                      Day                       |         Part 1          |         Part 2          |
 | :--------------------------------------------: | :---------------------: | :---------------------: |
 |  [Day 1](https://adventofcode.com/2023/day/1)  | [01-1.py](2023/01-1.py) | [01-2.py](2023/01-2.py) |
@@ -27,3 +31,11 @@ A collection of advent of code solutions.
 | [Day 19](https://adventofcode.com/2023/day/19) | [19-1.py](2023/19-1.py) | [19-2.py](2023/19-2.py) |
 | [Day 20](https://adventofcode.com/2023/day/20) | [20-1.py](2023/20-1.py) | [20-2.py](2023/20-2.py) |
 | [Day 21](https://adventofcode.com/2023/day/21) | [21-1.py](2023/21-1.py) | [21-2.py](2023/21-2.py) |
+
+</details>
+
+2024 Solutions
+
+|                     Day                      |         Part 1          |         Part 2          |
+| :------------------------------------------: | :---------------------: | :---------------------: |
+| [Day 1](https://adventofcode.com/2024/day/1) | [01-1.py](2024/01-1.py) | [01-2.py](2024/01-2.py) |
